@@ -1,4 +1,5 @@
 # LinkedIn Profile Optimizer Chrome Extension
+![Logo](LinkedIn Profile Optimizer.png)
 
 This Chrome extension allows you to easily optimize and download your LinkedIn profile by leveraging the **Google Gemini API** (powered by Google Brain), a state-of-the-art **Large Language Model (LLM)**. The extension fetches your LinkedIn profile data, generates optimized content using the LLM, and allows you to download the optimized profile as a PDF.
 
