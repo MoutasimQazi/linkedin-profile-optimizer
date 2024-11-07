@@ -13,7 +13,7 @@ This Chrome extension allows you to easily optimize and download your LinkedIn p
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/yourusername/linkedin-profile-optimizer
+   git clone https://github.com/MoutasimQazi/linkedin-profile-optimizer
 
 
 2. Open Chrome and go to the Extensions page (`chrome://extensions/`).
